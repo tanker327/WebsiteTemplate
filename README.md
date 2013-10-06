@@ -1,4 +1,0 @@
-WebsiteTemplate
-===============
-
-Web Site Template
